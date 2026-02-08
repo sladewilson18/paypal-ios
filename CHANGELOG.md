@@ -1,7 +1,7 @@
 
 # PayPal iOS SDK Release Notes
 
-## unreleased
+## 2.0.X (2026-02-08)
 ## 2.0.3 unreleased
 ## 2.0.0 (2026-02-08)
 
